@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174212167322",
+    "project_id": "learndash-app",
+    "storage_bucket": "learndash-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174212167322:android:6b22d501c3b6ca89ab1123",
+        "android_client_info": {
+          "package_name": "com.learndash.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174212167322-eilpd5jc50e84e3igahbuk385j1gqa06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learndash.app",
+            "certificate_hash": "60fd5d672cc880b6aac3ddd95f9a7b1cc3b93043"
+          }
+        },
+        {
+          "client_id": "174212167322-tu57c6h58gcnku568jbannkquiu2i011.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learndash.app",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "174212167322-ac94ppo9nggjq4b3vl2gbsa7irj0v9fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgQh6c9m5-i29rEMW4Rdsc27iuf2EbLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174212167322-ac94ppo9nggjq4b3vl2gbsa7irj0v9fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+items:
+-   label: Getting Started
+-   label: Introduction
+    file: README.md
+-   label: LearnBoss LMS API Plugin setup
+    file: apiplugin.md
+-   label: Flutter Environment
+    file: FlutterEnvironment.md
+-   label: Android App build
+-   label: Flutter Setup
+    file: FlutterSetup.md
+-   label: Android studio Setup
+    file: AndroidstudioSetup.md
+-   label: Installing Flutter Packages
+    file: InstallingFlutterPackages.md
+-   label: Setting the Site URL
+    file: SettingtheSiteURL.md
+-   label: Adding App Icon
+    file: AddingAppIcon.md
+-   label: Package name and App name
+    file: PackageNameandAppName.md
+-   label: Features
+-   label: Basic changes
+    file: basicChanges.md
+-   label: Payment gateways
+    file: paymentGateways.md
+-   label: Firebase Notification And Google Login
+    file: FirebaseNotificationAndGoogleLogin.md
+-   label: Admob ads integration
+    file: AdmobAds.md
+-   label: Release
+-   label: App Release
+    file: AppRelease.md
